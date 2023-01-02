@@ -4,4 +4,3 @@
 *.bat
 config.txt
 config[0-9].txt
-chromedriver.exe
